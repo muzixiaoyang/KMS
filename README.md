@@ -17,8 +17,8 @@ If you appreciate and support our work, you are welcome to support us in the fol
 • Community Contribution: Join our community and share your ideas and suggestions for improvement.  
 ## How it works
 KMS is an automatic consumables replacement system based on independent channels, which natively supports the Happy-Hare V3 software system and can run stably.  
-The system integrates the temperature and humidity monitoring function to monitor the cabin environment in real time and provide accurate data reference for your consumables storage.   
-Thanks to the independent channel design, KMS does not rely on selectors or servos, simplifying the control process while improving reliability.  
+The system integrates the temperature and humidity monitoring function, which monitors the temperature and humidity of the environment in the box in real time, and provides accurate data reference for your consumables storage.  
+Thanks to the independent channel design, KMS does not rely on selectors or servos, simplifying the control process while increasing reliability.  
 In order to optimize the synchronization of consumables between the KMS printing system and the printer, we have specially designed the KMS-Buffer system. This design ensures a smoother transfer of consumables between the printer end and the KMS.   
 In addition, we have developed a modular motorized rewinder to help you recycle consumables quickly and reliably, reducing the risk of print interruptions.  
 To get the most out of KMS, we recommend using BigTreeTech's dashboard system. Designed for Class B multicolor printing systems, this motherboard provides you with a complete product solution that ensures seamless integration and efficient operation.
