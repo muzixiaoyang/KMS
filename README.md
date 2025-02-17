@@ -38,7 +38,9 @@ During the development of the project, we have received the support of the follo
 • Ms. Miumoon: Thank you for your outstanding contributions to the software programming and testing process, which ensures the stability of the system.  
 • Mr. Moggieuk: Thank you for your support of the software architecture and your contribution to the development of the project, which laid a solid foundation for the project.  
 ### Special thanks to you
-• Creality, Inc., Bambu Lab, Inc., DeepSeek
+• Creality  
+• Bambu Lab   
+• DeepSeek  
 ### Epilogue
 Without the wisdom, sweat and trust of every partner, it would be difficult for this project to move from idea to reality.   
 We look forward to continuing to work together in the future to explore more possibilities together!
