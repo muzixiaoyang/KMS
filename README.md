@@ -2,7 +2,8 @@
 ![image](https://github.com/muzixiaoyang/KMS/blob/main/KMS-PNG.png)  
 ## KMS-V1.0(Klipper Multi-Color System)  
 (Compatible with BigTreeTech MMB-Board (Beta))  
-KMS-V1.0 is an automatic consumables changer based on the Klipper system, designed for multi-color 3D printing. As a fully open-source device, it features the Happy Hare TYPE-B solution, which enables efficient and reliable consumable switching to provide seamless support for your multicolor printing.
+KMS-V1.0 is an automatic consumables changer based on the Klipper system, designed for multi-color 3D printing.   
+As a fully open-source device, it features the Happy Hare TYPE-B solution, which enables efficient and reliable consumable switching to provide seamless support for your multicolor printing.
 
 ## Product Highlights:
  • Modular design: 3D printed shell and acrylic transparent window, both beautiful and practical.  
