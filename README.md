@@ -35,7 +35,7 @@ During the development of the project, we have received the support of the follo
 ### Technical Support & Collaboration
 • BigTreeTech: Thank you for your core hardware solutions and customized technical support.  
 • Mr. Yanshimi: Thank you for your professional support in hardware development and system debugging, which overcame many technical bottlenecks.  
-• Ms. Miumoon: Thank you for your outstanding contributions to the software programming and testing process, which ensures the stability of the system.  
+• Ms. Muimoo: Thank you for your outstanding contributions to the software programming and testing process, which ensures the stability of the system.  
 • Mr. Moggieuk: Thank you for your support of the software architecture and your contribution to the development of the project, which laid a solid foundation for the project.  
 ### Special thanks to you
 • Creality  
