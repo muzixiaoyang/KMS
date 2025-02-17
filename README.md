@@ -40,7 +40,6 @@ During the development of the project, we have received the support of the follo
 ### Special thanks to you
 • Creality  
 • Bambu Lab   
-• DeepSeek  
 ### Epilogue
 Without the wisdom, sweat and trust of every partner, it would be difficult for this project to move from idea to reality.   
 We look forward to continuing to work together in the future to explore more possibilities together!
