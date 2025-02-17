@@ -30,3 +30,15 @@ For a detailed guide to installation and configuration, please visit the Happy-H
 • Hot End Tool Head Cutting: This is the most reliable and recommended solution for KMS. Please visit our database for the most up-to-date installation guides and instructions.  
 • Tip Forming: If you can't cut with a tool head, you can also opt for the tip forming option. However, the effectiveness of this solution may vary depending on equipment, consumables, and other factors.  
 In addition, in order to solve the problem of consumable embolization, we also specially designed the remote servo system cutter. This innovative design avoids clogging of consumables and ensures a smoother printing process.  
+## Thanks
+During the development of the project, we have received the support of the following individuals and partners, and we would like to express our sincerest gratitude:
+### Technical Support & Collaboration
+• BigTreeTech: Thank you for your core hardware solutions and customized technical support.  
+• Mr. Yanshimi: Thank you for your professional support in hardware development and system debugging, which overcame many technical bottlenecks.  
+• Ms. Miumoon: Thank you for your outstanding contributions to the software programming and testing process, which ensures the stability of the system.  
+• Mr. Moggieuk: Thank you for your support of the software architecture and your contribution to the development of the project, which laid a solid foundation for the project.  
+### Special thanks to you
+• Creality, Inc., Bambu Lab, Inc., DeepSeek
+### Epilogue
+Without the wisdom, sweat and trust of every partner, it would be difficult for this project to move from idea to reality.   
+We look forward to continuing to work together in the future to explore more possibilities together!
