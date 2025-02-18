@@ -6,10 +6,12 @@ KMS-V1.0 is an automatic consumables changer based on the Klipper system, design
 As a fully open-source device, it features the Happy Hare TYPE-B solution, which enables efficient and reliable consumable switching to provide seamless support for your multicolor printing.
 
 ## Product Highlights:
- • Modular design: 3D printed shell and acrylic transparent window, both beautiful and practical.  
+ • Aesthetic and practical: 3D printed shell and acrylic transparent window, both beautiful and practical.  
  • Efficient sealing: Optimized consumable sealing design can effectively prevent consumable moisture and contamination.  
  • Open source support: fully open source, community-driven, continuous improvement and innovation.  
  • Easy to integrate: Designed to be compatible with BigtreeTech MMB-Board (Beta), simplifying installation and configuration.  
+ • Stable and reliable:The all-photoelectric trigger technology is used to achieve a high-stability multi-color printing system to ensure a smooth and error-free printing process.  
+ • Modular design:It supports modular quick replacement of accessories, reduces maintenance costs, and improves equipment service life and user experience.  
 ## Support us
 If you appreciate and support our work, you are welcome to support us in the following ways:  
 • GitHub Star: Shine a Star on our open source projects and encourage us to keep going.  
