@@ -23,7 +23,7 @@ In order to optimize the synchronization of consumables between the KMS printing
 In addition, we have developed a modular motorized rewinder to help you recycle consumables quickly and reliably, reducing the risk of print interruptions.  
 To get the most out of KMS, we recommend using BigTreeTech's dashboard system. Designed for Class B multicolor printing systems, this motherboard provides you with a complete product solution that ensures seamless integration and efficient operation.
 ## For best results
-Software System (Happy-Hare)
+Software System ([Happy-Hare](https://github.com/moggieuk/Happy-Hare))
 KMS was developed in collaboration with the Happy-Hare V3 system to ensure seamless integration and efficient operation.   
 For a detailed guide to installation and configuration, please visit the Happy-Hare repository for comprehensive installation information.  
 ### Hot End Cutting or Tip Forming?
@@ -33,13 +33,13 @@ In addition, in order to solve the problem of consumable embolization, we also s
 ## Thanks
 During the development of the project, we have received the support of the following individuals and partners, and we would like to express our sincerest gratitude:
 ### Technical Support & Collaboration
-• BigTreeTech: Thank you for your core hardware solutions and customized technical support.  
+• (BigTreeTech)[https://github.com/bigtreetech]: Thank you for your core hardware solutions and customized technical support.  
 • Mr. Yanshimi: Thank you for your professional support in hardware development and system debugging, which overcame many technical bottlenecks.  
-• Ms. Muimoo: Thank you for your outstanding contributions to the software programming and testing process, which ensures the stability of the system.  
-• Mr. Moggieuk: Thank you for your support of the software architecture and your contribution to the development of the project, which laid a solid foundation for the project.  
+• Ms. (Muimoo)[https://github.com/muimoon]: Thank you for your outstanding contributions to the software programming and testing process, which ensures the stability of the system.  
+• Mr. (Moggieuk)[https://github.com/Moggieuk]: Thank you for your support of the software architecture and your contribution to the development of the project, which laid a solid foundation for the project.  
 ### Special thanks to you
-• Creality  
-• Bambu Lab   
+• (Creality)[https://github.com/CrealityOfficial]  
+• (Bambu Lab)[https://github.com/bambulab]   
 ### Epilogue
 Without the wisdom, sweat and trust of every partner, it would be difficult for this project to move from idea to reality.   
 We look forward to continuing to work together in the future to explore more possibilities together!
