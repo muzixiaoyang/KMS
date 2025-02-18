@@ -12,6 +12,7 @@ As a fully open-source device, it features the Happy Hare TYPE-B solution, which
  • Easy to integrate: Designed to be compatible with BigtreeTech MMB-Board (Beta), simplifying installation and configuration.  
  • Stable and reliable:The all-photoelectric trigger technology is used to achieve a high-stability multi-color printing system to ensure a smooth and error-free printing process.  
  • Modular design:It supports modular quick replacement of accessories, reduces maintenance costs, and improves equipment service life and user experience.  
+ • Temperature and humidity sensing: Real-time monitoring of the temperature and humidity changes inside the enclosure using sensors integrated on the PCB.  
 ## Support us
 If you appreciate and support our work, you are welcome to support us in the following ways:  
 • GitHub Star: Shine a Star on our open source projects and encourage us to keep going.  
