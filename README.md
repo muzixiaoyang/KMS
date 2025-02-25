@@ -41,8 +41,10 @@ During the development of the project, we have received the support of the follo
 • Ms. [Muimoo](https://github.com/muimoon): Thank you for your outstanding contributions to the software programming and testing process, which ensures the stability of the system.  
 • Mr. [Moggieuk](https://github.com/Moggieuk): Thank you for your support of the software architecture and your contribution to the development of the project, which laid a solid foundation for the project.  
 ### Special thanks to you
+• [Aliz](https://www.sz-logo.com/)  
+• [Sunlu](https://www.sunlu.com/)  
 • [Creality](https://github.com/CrealityOfficial)  
-• [Bambu Lab](https://github.com/bambulab)  
+• [Bambu Lab](https://github.com/bambulab)    
 ### Epilogue
 Without the wisdom, sweat and trust of every partner, it would be difficult for this project to move from idea to reality.   
 We look forward to continuing to work together in the future to explore more possibilities together!
